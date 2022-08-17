@@ -8,6 +8,9 @@ occurs.
 
 The main file should compile in plain C (and also C++) without any dependencies (aside -lm). The 'aux' folder can mostly be ignored, as it contains other things used for the thesis.
 
+Once it's running, it accepts commands from the command line to control the calculations. So far, it only communicates with the user in Czech, but it's ready for other languages that could be selected by changing the "LANG" macro and appending to the "user_comm.h" file. I plan to add English in the
+very near future.
+
 It's good to use it with gnuplot installed - it can call gnuplot to make plots while running!
 
 ## Features

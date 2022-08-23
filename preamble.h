@@ -1,7 +1,7 @@
-#define PARAM_FILE_NAME "data/parameters.txt"
-#define PLOT_DATAFILE_NAME "data/plot.txt"
-#define PLOT_DATAFILE_NAME2 "data/plot0.txt"
-#define RESIDUUM_FILE_NAME "data/res.txt"
+#define PARAM_FILE_NAME "data_parameters.txt"
+#define PLOT_DATAFILE_NAME "data_plot.txt"
+#define PLOT_DATAFILE_NAME2 "data_plot0.txt"
+#define RESIDUUM_FILE_NAME "data_res.txt"
 
 /*used to allocate memory for function/parameter description */
 #define NAME_MAX_LEN 8

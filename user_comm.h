@@ -150,7 +150,7 @@ proveden dostatek iteraci..."
 
 #define HELP_STRING \
 "params \n\
-params backup soubor.txt\
+params backup soubor.txt \n\
 params save \n\
 params edit all \n\
 params edit parametr 20 \n\
